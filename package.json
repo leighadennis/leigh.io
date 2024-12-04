@@ -266,7 +266,7 @@
   "devDependencies": {
     "deep-equal": "~1.0.1",
     "licensee": "^5.0.0",
-    "marked": "^0.6.1",
+    "marked": "^4.0.10",
     "marked-man": "~0.2.1",
     "npm-registry-couchapp": "^2.7.1",
     "npm-registry-mock": "~1.1.0",
